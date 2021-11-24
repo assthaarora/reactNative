@@ -1,1 +1,8 @@
 #Installation Steps
+#Setting up developement environment for your first react project 
+Step 1: Install Node.js in your system . You can visit https://nodejs.org/en/download/ to download Node.js and install it .
+Step 2: Once Node.js is successfully installed . Select a directory in which you will be running all your react projects. 
+Step 3: RUn command : npm install -g expo-cli
+        This will help us get started with Expo CLI. Expo is a set of tools built around React Native and, while it has many features,
+        the most relevant feature for us right now is that it can get you writing a React Native app within minutes. 
+        You will only need a recent version of Node.js and a phone or emulator.
